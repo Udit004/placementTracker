@@ -1,4 +1,4 @@
-package com.udit.placementtracker.entity;
+package com.udit.placementtracker.features.user.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

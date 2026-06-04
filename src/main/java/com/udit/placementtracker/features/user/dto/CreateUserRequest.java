@@ -1,12 +1,14 @@
-package com.udit.placementtracker.dto;
+package com.udit.placementtracker.features.user.dto;
 
 import lombok.Data;
 
 @Data
-public class UserResponse {
+public class CreateUserRequest {
 
     private String name;
+
     private String email;
+
     private Integer totalApplications;
 
 }

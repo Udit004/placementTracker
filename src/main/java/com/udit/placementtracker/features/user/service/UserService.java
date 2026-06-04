@@ -1,8 +1,8 @@
-package com.udit.placementtracker.service;
+package com.udit.placementtracker.features.user.service;
 
-import com.udit.placementtracker.dto.CreateUserRequest;
-import com.udit.placementtracker.entity.User;
-import com.udit.placementtracker.repository.UserRepository;
+import com.udit.placementtracker.features.user.dto.CreateUserRequest;
+import com.udit.placementtracker.features.user.entity.User;
+import com.udit.placementtracker.features.user.repository.UserRepository;
 import org.springframework.stereotype.Service;
 
 @Service
