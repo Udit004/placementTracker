@@ -9,6 +9,8 @@ public class CreateUserRequest {
 
     private String email;
 
+    private String password;
+
     private Integer totalApplications;
 
 }
